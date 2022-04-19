@@ -1,1 +1,1 @@
-console.log("snspa")
+console.log("qyktp")
