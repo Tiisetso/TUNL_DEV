@@ -1,1 +1,1 @@
-console.log("saryt")
+console.log("dnjqj")
